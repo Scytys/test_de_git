@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace test_de_git
 {
-    class Program
+    class Masuperclasse
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World");
-            Console.ReadLine();
-        }
+        public int toto { get; set; }
     }
 }
