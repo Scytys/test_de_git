@@ -12,6 +12,7 @@ namespace test_de_git
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Wololo");
+            Console.WriteLine("tuck tuck tuck");
             Console.ReadLine();
         }
     }
